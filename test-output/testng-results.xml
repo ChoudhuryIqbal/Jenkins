@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="64" started-at="2017-02-15T03:32:49Z" finished-at="2017-02-15T03:32:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="64" started-at="2017-02-15T03:32:49Z" finished-at="2017-02-15T03:32:49Z">
+      <class name="com.Jenkins.jenkins.Jenkins">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Jenkins.jenkins.Jenkins@69d9c55]" name="setUp" is-config="true" duration-ms="30" started-at="2017-02-14T22:32:49Z" finished-at="2017-02-14T22:32:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.Jenkins.jenkins.Jenkins@69d9c55]" name="test" duration-ms="6" started-at="2017-02-14T22:32:49Z" finished-at="2017-02-14T22:32:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.Jenkins.jenkins.Jenkins@69d9c55]" name="test2" is-config="true" duration-ms="0" started-at="2017-02-14T22:32:49Z" finished-at="2017-02-14T22:32:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- com.Jenkins.jenkins.Jenkins -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
